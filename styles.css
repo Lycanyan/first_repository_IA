@@ -5,14 +5,17 @@ body{
     min-height: 100vh;
     margin: 0;
     text-align: center;
-    background-color: lightgreen; /* Color de fondo */
-    color: white; /* Color del texto */
-}
-/* Intenta ponerle color de fondo y color al texto del h1 */
 
+    background-color:lightskyblue;
+    color:darkblue ;
+}
 h1{
-    background-color: lightcoral;
-    color: lightskyblue;
+    background-color: darkcyan;
+    color: gold;
+}
+h2{
+    background-color: darkgrey;
+    color: darkgreen;
 }
 div{
     max-width: 600px;
